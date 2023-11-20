@@ -1,7 +1,7 @@
 <?php include "Views/Templates/header.php"; ?>
 <div class="card">
     <div class="card-header bg-primary text-white">
-        <h4>Nueva Compra</h4>
+        <h4>NUEVA COMPRA A REALIZAR</h>
     </div>
     <div class="card-body">
         <form id="frmCompra">

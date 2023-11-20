@@ -1,7 +1,7 @@
 <?php include "Views/Templates/header.php"; ?>
 <div class="card">
     <div class="card-header bg-primary text-white">
-        Compras
+        COMPRAS
     </div>
     <div class="card-body">
         <div class="table-responsive">
